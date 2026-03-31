@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ora",
+    "logo": "/developers/ahly-sabbour.jpg",
+    "description": "Ora is a developer with an ethos to deliver unmatched experiences that embody human aspirations of self-fulfillment, and the pinnacle of happiness through a sensorial approach that can only be described as a surreal yet perfect moment of lifetime in luxury living.",
+    "phone": "01021128292",
+    "whatsapp": "01021128292",
+    "email": "info@oradevelopers.com",
+    "website": "https://www.ora-egypt.com/residential",
+    "establishedYear": 2016,
+    "foundedBy": "Naguib Sawiris",
+    "lastUpdated": "1 month ago"
+  },
+  {
+    "id": 2,
+    "name": "Hassan Allam Properties",
+    "logo": "/developers/tatweer-misr.jpg",
+    "description": "Hassan Allam Properties is one of Egypt's leading real estate developers, known for delivering high-quality residential and commercial projects.",
+    "phone": "01012345678",
+    "whatsapp": "01012345678",
+    "email": "info@hassanallam.com",
+    "website": "https://www.hassanallam.com",
+    "lastUpdated": "1 month ago"
+  },
+  {
+    "id": 3,
+    "name": "Hyde Park Developments",
+    "logo": "/developers/horizon.jpg",
+    "description": "Hyde Park Developments creates vibrant communities that offer a unique lifestyle experience with world-class amenities.",
+    "phone": "01087654321",
+    "whatsapp": "01087654321",
+    "email": "info@hydepark.com",
+    "website": "https://www.hydepark.com",
+    "lastUpdated": "6 months ago"
+  },
+  {
+    "id": 4,
+    "name": "Tatweer Misr",
+    "logo": "/developers/hassan-allam.jpg",
+    "description": "Tatweer Misr is a leading real estate developer in Egypt, creating innovative and sustainable communities.",
+    "phone": "01011223344",
+    "whatsapp": "01011223344",
+    "email": "info@tatweermisr.com",
+    "website": "https://www.tatweermisr.com",
+    "lastUpdated": "6 months ago"
+  },
+  {
+    "id": 5,
+    "name": "Mountain View",
+    "logo": "/developers/ora.jpg",
+    "description": "Mountain View develops premium residential compounds with stunning landscapes and modern designs.",
+    "phone": "01055667788",
+    "whatsapp": "01055667788",
+    "email": "info@mountainview.com",
+    "website": "https://www.mountainview.com",
+    "lastUpdated": "6 months ago"
+  },
+  {
+    "id": 6,
+    "name": "Horizon Egypt",
+    "logo": "/developers/hyde-park.jpg",
+    "description": "Horizon Egypt Developments creates exceptional living spaces with a focus on quality and innovation.",
+    "phone": "01099887766",
+    "whatsapp": "01099887766",
+    "email": "info@horizonegypt.com",
+    "website": "https://www.horizonegypt.com",
+    "lastUpdated": "6 months ago"
+  },
+  {
+    "id": 7,
+    "name": "AL-Marasem",
+    "logo": "/developers/ahly-sabbour.jpg",
+    "description": "AL-Marasem Development delivers premium residential projects with attention to detail and quality.",
+    "phone": "01033445566",
+    "whatsapp": "01033445566",
+    "email": "info@almarasem.com",
+    "website": "https://www.almarasem.com",
+    "lastUpdated": "6 months ago"
+  },
+  {
+    "id": 8,
+    "name": "Al Ahly Sabbour",
+    "logo": "/developers/almarassem.jpg",
+    "description": "Al Ahly Sabbour Developments is a partnership between Al Ahly Capital and Sabbour Associates.",
+    "phone": "01077889900",
+    "whatsapp": "01077889900",
+    "email": "info@alahlysabbour.com",
+    "website": "https://www.alahlysabbour.com",
+    "lastUpdated": "6 months ago"
+  }
+]

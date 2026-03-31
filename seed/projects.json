@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "SilverSands", "developerId": 1 },
+  { "id": 2, "name": "La Vista NorthCoast", "developerId": 3 },
+  { "id": 3, "name": "La Vista New Cairo", "developerId": 3 },
+  { "id": 4, "name": "Salt", "developerId": 4 },
+  { "id": 5, "name": "Fouka Bay", "developerId": 4 },
+  { "id": 6, "name": "D - Bay", "developerId": 4 },
+  { "id": 7, "name": "Tatweer NorthCoast General", "developerId": 4 },
+  { "id": 8, "name": "Haptown", "developerId": 2 },
+  { "id": 9, "name": "Cairo New Cairo", "developerId": 2 },
+  { "id": 10, "name": "Zed West", "developerId": 1 }
+]

@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Property Advisor" },
+  { "id": 2, "name": "Property Consultant" },
+  { "id": 3, "name": "Senior Property" },
+  { "id": 4, "name": "Supervisor" },
+  { "id": 5, "name": "Associate Manager" },
+  { "id": 6, "name": "Senior Manager" },
+  { "id": 7, "name": "Associate Director" },
+  { "id": 8, "name": "Senior Director" },
+  { "id": 9, "name": "Branch Director" },
+  { "id": 10, "name": "Head Of Sales" }
+]

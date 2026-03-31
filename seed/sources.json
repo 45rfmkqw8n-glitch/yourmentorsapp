@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Meta", "color": "#3B82F6" },
+  { "id": 2, "name": "Internal Database", "color": "#22C55E" },
+  { "id": 3, "name": "Referral", "color": "#F97316" },
+  { "id": 4, "name": "Website", "color": "#8B5CF6" },
+  { "id": 5, "name": "Walk-in", "color": "#EC4899" }
+]

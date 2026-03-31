@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "New Lead", "color": "#3B82F6" },
+  { "id": 2, "name": "No answer", "color": "#6B7280" },
+  { "id": 3, "name": "Potential", "color": "#22C55E" },
+  { "id": 4, "name": "Non potential", "color": "#DC2626" },
+  { "id": 5, "name": "Call back", "color": "#F97316" },
+  { "id": 6, "name": "Whatsapp", "color": "#25D366" },
+  { "id": 7, "name": "Low budget", "color": "#EA580C" },
+  { "id": 8, "name": "Hot case", "color": "#EF4444" },
+  { "id": 9, "name": "Closed deal", "color": "#16A34A" },
+  { "id": 10, "name": "Closed deal outside", "color": "#9333EA" }
+]

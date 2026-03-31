@@ -1,0 +1,25 @@
+{
+  "name": "mentors-crm-server",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js",
+    "smoke": "node scripts/smoke-test.mjs",
+    "seed:demo": "node scripts/seed-demo-data.mjs",
+    "seed:branch": "node scripts/seed-first-branch.mjs",
+    "seed:branch2": "node scripts/seed-second-branch.mjs",
+    "backup": "node scripts/export-backup.mjs",
+    "backup:portable": "node scripts/export-backup.mjs --portable",
+    "restore": "node scripts/restore-backup.mjs"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.11.0"
+  }
+}

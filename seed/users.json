@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "email": "admin@mentors.com",
+    "phone": "01000000000",
+    "role": "admin",
+    "title": "System Admin",
+    "department": "Admins",
+    "password": "password"
+  },
+  {
+    "id": 2,
+    "name": "Fatma Abdelmalek",
+    "email": "FatmaAbdelmalek@mentors.com",
+    "phone": "+20 102 024 3271",
+    "role": "admin",
+    "title": "Admin",
+    "department": "Admins",
+    "password": "FatmaAbdelmalek123"
+  }
+]
