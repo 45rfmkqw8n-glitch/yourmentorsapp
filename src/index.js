@@ -15,6 +15,16 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 app.use(cors());
 app.use(express.json({ limit: '25mb' }));
 
+// Root health check for uptime monitors & load balancers
+app.get('/health', async (req, res) => {
+  try {
+    await pool.query('SELECT 1');
+    res.json({ status: 'healthy', timestamp: new Date().toISOString() });
+  } catch (error) {
+    res.status(500).json({ status: 'unhealthy', error: error.message });
+  }
+});
+
 const toBool = (value) => (value ? 1 : 0);
 const nowTs = () => new Date().toISOString().slice(0, 19).replace('T', ' ');
 const defaultUserImage = 'https://www.pngitem.com/pimgs/m/35-350426_profile-icon-png-default-profile-picture-png-transparent.png';
